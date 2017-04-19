@@ -1,4 +1,7 @@
-# test coverage for  [ember-cli-dotenv (v1.2.0)](https://github.com/fivetanley/ember-cli-dotenv#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli-dotenv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli-dotenv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli-dotenv.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli-dotenv)
+# npmtest-ember-cli-dotenv
+
+#### test coverage for  [ember-cli-dotenv (v1.2.0)](https://github.com/fivetanley/ember-cli-dotenv#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli-dotenv.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli-dotenv) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli-dotenv.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli-dotenv)
+
 #### Expose .env variables in Ember applications
 
 [![NPM](https://nodei.co/npm/ember-cli-dotenv.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-cli-dotenv)
